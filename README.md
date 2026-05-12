@@ -21,8 +21,8 @@ I am a Master's student specializing in **Artificial Intelligence and Machine Le
 
 
 ### 📫 How to reach me
-*   **LinkedIn:** [linkedin.com/in/your-profile](https://www.linkedin.com/in/varshitha-pasala/)
-*   **Email:** [your.email@example.com](mailto:varshithapasala27@gmail.com)
+*   **LinkedIn:** [linkedin](https://www.linkedin.com/in/varshitha-pasala/)
+*   **Email:** [email](mailto:varshithapasala27@gmail.com)
 
 ---
 *“Building at the intersection of AI research and software engineering.”*
